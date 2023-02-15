@@ -11,12 +11,13 @@ Przede wszystkim mam nadzieję, że zdobędę dużo wartościowej wiedzy, któr�
   Oprócz manualnego wprowadzania danych i statystyk, można włączyć interfejs graficzny z "meczem", gdzie po kliknięciu, wybieramy odpowiednie zagranie / akcję, dzięki którym generowane są statystyki w raporcie.
   UI jest dość prosty i przejrzysty. Po krótkim użytkowaniu, wiem gdzie znajdują się poszczególne elementy i jak z nich korzystać. Natomiast można by zmienić kolorystykę, na nieco bardziej związaną z piłką nożną. Dodatkowo, lista graczy nie jest zbyt wygodna w użytkowaniu, jest tylko jeden layout do wyboru (można edytować jakie dane zawodnika są pokazywane, ale niewiele to zmienia). Fajnie byłoby zaimplementować jakiś algorytm sortujący, np alfabetycznie.
   
-  <b> BŁĘDY! </b>
+  BŁĘDY!
   
-    1) Edycja gracza:
+   1) Edycja gracza:
     - Możliwość wprowadzanie dowolnej daty, jako data urodzenia - można wpisać daty przyszłe
     - Błędy tłumaczenia, np nie zmienia się opis przycisków "submit i clear", a w wersji angielskiej jest "age" zamiast "dob"
     
    2) Raport meczowy
    - Nie działają listy (enter nie powoduje powstania dodatkowej kropki / cyfry, ale twardy enter owszem)
+   
    3) Skrypt meczu - pozwala na dowolną liczbę połów - a mogą być jedynie 2 (plus ewentualnie dogrywka)
