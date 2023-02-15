@@ -12,6 +12,7 @@ Przede wszystkim mam nadzieję, że zdobędę dużo wartościowej wiedzy, któr�
   UI jest dość prosty i przejrzysty. Po krótkim użytkowaniu, wiem gdzie znajdują się poszczególne elementy i jak z nich korzystać. Natomiast można by zmienić kolorystykę, na nieco bardziej związaną z piłką nożną. Dodatkowo, lista graczy nie jest zbyt wygodna w użytkowaniu, jest tylko jeden layout do wyboru (można edytować jakie dane zawodnika są pokazywane, ale niewiele to zmienia). Fajnie byłoby zaimplementować jakiś algorytm sortujący, np alfabetycznie.
   
   <b> BŁĘDY! </b>
+  
     1) Edycja gracza:
     - Możliwość wprowadzanie dowolnej daty, jako data urodzenia - można wpisać daty przyszłe
     - Błędy tłumaczenia, np nie zmienia się opis przycisków "submit i clear", a w wersji angielskiej jest "age" zamiast "dob"
