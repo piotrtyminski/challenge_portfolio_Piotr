@@ -1,4 +1,5 @@
 # challenge_portfolio_Piotr
+🥺 jeśli mogę prosić o niesprawdzanie to postaram się w najbliższych dniach dodać resztę tasków!
 # Task 1 
 ## Subtask 1 
 9 punktów 🥇
