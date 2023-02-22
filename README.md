@@ -30,7 +30,7 @@ Przede wszystkim mam nadzieję, że zdobędę dużo wartościowej wiedzy, któr�
    
    * pozwala na dowolną liczbę połów - a mogą być jedynie 2 (plus ewentualnie dogrywka)
    
-#Task 2
+# Task 2
 
 ## Subtask 1
 
