@@ -29,3 +29,13 @@ Przede wszystkim mam nadzieję, że zdobędę dużo wartościowej wiedzy, któr�
    3) Skrypt meczu 
    
    * pozwala na dowolną liczbę połów - a mogą być jedynie 2 (plus ewentualnie dogrywka)
+   
+#Task 2
+
+## Subtask 1
+
+https://docs.google.com/spreadsheets/d/1Y8bLTo_siZEawMuD014unHzaWal2Btu1qjyrTkpX8HU/edit?usp=share_link
+
+## Subtask 2
+
+https://docs.google.com/spreadsheets/d/1YeTbqCaOxgXdZeADZyuviWkKly6vFrSzsuiSon6_lT4/edit?usp=sharing
